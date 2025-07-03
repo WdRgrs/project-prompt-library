@@ -4,14 +4,14 @@ A collection of refined prompts designed to help professionals create better con
 
 ## What's Included
 
+### Prompt Refinement Specialist
+A prompt to refine prompts! Transforms draft prompts into clear, effective instructions optimized for LLM use. The specialist analyzes objectives, removes redundancies, and reorganizes content for maximum clarity. It preserves effective elements while eliminating vague language and contradictions, delivering refined prompts ready for immediate use.
+
 ### Cover Letter Generator
 Creates personalized, technically competent cover letters that sound confident and knowledgeable. The generator references your resume to craft targeted letters that highlight relevant achievements and demonstrate genuine interest in the company. It produces natural, conversational content between 200 and 400 words without generic corporate language.
 
 ### Professional Profile Section Builder
 Builds targeted profile sections for various platforms including LinkedIn, GitHub, Upwork, and personal websites. The builder adapts content to platform constraints while maintaining a consistent professional voice. It incorporates your unique background, relevant projects, and key differentiators to maximize impact with recruiters, clients, or peers.
-
-### Prompt Refinement Specialist
-Transforms draft prompts into clear, effective instructions optimized for LLM use. The specialist analyzes objectives, removes redundancies, and reorganizes content for maximum clarity. It preserves effective elements while eliminating vague language and contradictions, delivering refined prompts ready for immediate use.
 
 ### Terms of Service and Privacy Policy Auditor
 Provides comprehensive analysis of legal documents to help users understand their rights and risks. The auditor examines data collection practices, identifies concerning clauses, and compares terms against industry standards. It delivers plain language summaries with specific recommendations for user protection.
