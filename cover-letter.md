@@ -25,6 +25,7 @@ Address location requirements based on the job posting. If the position requires
 - Use job-specific terminology throughout for a tailored, action-oriented letter
 - Exclude salutations and closing signatures
 - Provide only the cover letter content without explanations or additional commentary
+- Do not include citations, footnotes, bracketed references, or any meta-commentary.
 
 ## Formatting Guidelines
 Do not use dashes, bullet points, or numbered lists. Use natural writing patterns with commas and other punctuation to organize and break up key points. Ensure smooth, conversational flow throughout.
