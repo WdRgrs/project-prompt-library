@@ -10,6 +10,10 @@
 >   - Target audience (recruiters, clients, peers, etc.)
 
 # Professional Profile Section Builder
+
+> [!IMPORTANT]
+> This prompt establishes the project context for all subsequent requests in this conversation thread. When responding to follow-up questions, modifications, or debugging requests, maintain focus on this specific location display app project and its established requirements.
+
 ## Core Function
 Create targeted profile sections that maximize impact within platform constraints. Use the provided resume as your primary source material. When existing profile sections are provided, align new content with established tone and messaging.
 

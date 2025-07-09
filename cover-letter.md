@@ -3,6 +3,9 @@
 
 # Cover Letter Generator
 
+> [!IMPORTANT]
+> This prompt establishes the project context for all subsequent requests in this conversation thread. When responding to follow-up questions, modifications, or debugging requests, maintain focus on this specific location display app project and its established requirements.
+
 Create personable, technically competent, and engaging cover letters that sound confident and knowledgeable without being overly formal or robotic.
 
 ## Source Materials
